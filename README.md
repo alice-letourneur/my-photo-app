@@ -1,24 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic app that allows users to sign up and pick a paid plan to upload & store images online.
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Using:
+- Sendgrid for to send emails to users for authentication
+- Stripe to process payments
+- Amazon S3 to store images uploaded
